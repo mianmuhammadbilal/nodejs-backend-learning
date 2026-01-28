@@ -9,16 +9,16 @@ before working with frameworks.
 ---
 
 ## 📂 Folder Structure
-
+```
 nodejs-backend-learning/
-├── lessons/
+    ├── lessons/
 │   ├── lesson-01-nodejs-basics/
 │   ├── lesson-02-core-modules/
 │   └── lesson-03-http-server/
 ├── package.json # Project configuration
 ├── README.md
 └── .gitignore
-
+```gi
 ## 📌 What is Node.js?
 
 Node.js is a JavaScript runtime environment that allows us to run JavaScript outside the browser.  
