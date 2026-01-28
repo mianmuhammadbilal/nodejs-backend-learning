@@ -18,7 +18,7 @@ nodejs-backend-learning/
 ├── package.json # Project configuration
 ├── README.md
 └── .gitignore
-```gi
+```
 ## 📌 What is Node.js?
 
 Node.js is a JavaScript runtime environment that allows us to run JavaScript outside the browser.  
